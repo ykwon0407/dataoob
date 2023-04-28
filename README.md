@@ -1,9 +1,6 @@
 # Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value
 
-This repository provides an implementation of the paper *[Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value](https://arxiv.org/abs/2304.07718)* accepted at [ICML 2023](https://icml.cc/Conferences/2023). Data-OOB is computationally efficient and can easily scale to millions of data. Our experiments demonstrate that Data-OOB significantly outperforms existing state-of-the-art data valuation methods in identifying mislabeled data points and finding a set of helpful (or harmful) data points, highlighting the potential for applying data values in real-world applications.
-
-
-[Illustration of Data-OOB](figures/dataoob.pdf){width=750px}
+This repository provides an implementation of the paper [Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value](https://arxiv.org/abs/2304.07718) accepted at [ICML 2023](https://icml.cc/Conferences/2023). Data-OOB is *computationally efficient* and can easily scale to millions of data. Our experiments demonstrate that Data-OOB significantly outperforms existing state-of-the-art data valuation methods in identifying mislabeled data points and finding a set of helpful (or harmful) data points, highlighting the potential for applying data values in real-world applications.
 
 ### Quick start
 
