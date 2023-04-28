@@ -3,15 +3,8 @@ dataset_id,name,task_type
 357,vehicle_sensIT,clf
 722,pol,clf
 727,2dplanes,clf
-734,ailerons,clf
 901,fried,clf
-1019,pendigits,clf
-1044,eye_movements,clf
-1116,musk,clf
-1476,gas-drift,clf
-1478,har,clf
 1486,nomao,clf
-41164,fabert,clf
 42477,default-of-credit-card-clients,clf
 43890,law-school-admission-bianry,clf
 43974,MiniBooNE,clf
