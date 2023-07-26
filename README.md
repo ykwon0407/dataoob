@@ -4,7 +4,7 @@ This repository provides an implementation of the paper [Data-OOB: Out-of-bag Es
 
 ### Quick start
 
-We provide an easy-to-follow [Jupyter notebook](notebook/Data-OOB-on-Magictelescope.ipynb), which demonstrates identification of mislabeled data points using Data-OOB (and existing data valuation methods). 
+We provide an easy-to-follow [Jupyter notebook](notebooks/Data-OOB-on-Magictelescope.ipynb), which demonstrates identification of mislabeled data points using Data-OOB (and existing data valuation methods). 
 
 
 ### Download OpenML datasets
